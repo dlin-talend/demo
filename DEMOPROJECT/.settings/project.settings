@@ -263,7 +263,7 @@
         "show" : true,
         "field" : "CHECK",
         "name" : "IMPLICIT_TCONTEXTLOAD",
-        "value" : "false",
+        "value" : "true",
         "contextMode" : false
       }, {
         "show" : true,
@@ -275,7 +275,7 @@
         "show" : true,
         "field" : "RADIO",
         "name" : "FROM_FILE_FLAG_IMPLICIT_CONTEXT",
-        "value" : "false",
+        "value" : "true",
         "contextMode" : false
       }, {
         "show" : true,
@@ -287,7 +287,7 @@
         "show" : true,
         "field" : "FILE",
         "name" : "IMPLICIT_TCONTEXTLOAD_FILE",
-        "value" : "\"\"",
+        "value" : "\"C:/Users/dlin/Desktop/Cumulative_patch_Process.txt\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -400,13 +400,13 @@
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "LOAD_NEW_VARIABLE",
-        "value" : "",
+        "value" : "Warning",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "NOT_LOAD_OLD_VARIABLE",
-        "value" : "",
+        "value" : "Warning",
         "contextMode" : false
       }, {
         "show" : true,
