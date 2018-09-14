@@ -1,0 +1,7 @@
+audit.Driver=net.sourceforge.jtds.jdbc.Driver
+audit.Password=yJKHKGWEAQw\=
+audit.URL=jdbc\:jtds\:sqlserver\://localhost\:1433/dbname
+audit.dbType=MSSQL
+audit.dbVersion=Open source JTDS
+audit.saved.in.db=true
+eclipse.preferences.version=1
