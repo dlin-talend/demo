@@ -1,7 +1,8 @@
-audit.Driver=net.sourceforge.jtds.jdbc.Driver
-audit.Password=yJKHKGWEAQw\=
-audit.URL=jdbc\:jtds\:sqlserver\://localhost\:1433/dbname
-audit.dbType=MSSQL
-audit.dbVersion=Open source JTDS
+audit.Driver=org.gjt.mm.mysql.Driver
+audit.Password=YdTnhbqBAdo\=
+audit.URL=jdbc\:mysql\://localhost\:3306/audit
+audit.Username=root
+audit.dbType=Mysql
+audit.dbVersion=MySQL 5
 audit.saved.in.db=true
 eclipse.preferences.version=1
