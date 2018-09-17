@@ -1,2 +1,8 @@
-audit.Password=yJKHKGWEAQw\=
+audit.Driver=org.gjt.mm.mysql.Driver
+audit.Password=YdTnhbqBAdo\=
+audit.URL=jdbc\:mysql\://localhost\:3306/audit
+audit.Username=root
+audit.dbType=Mysql
+audit.dbVersion=MySQL 5
+audit.saved.in.db=true
 eclipse.preferences.version=1

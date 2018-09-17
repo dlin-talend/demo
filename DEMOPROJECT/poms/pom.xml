@@ -9,20 +9,20 @@
   <name>DEMOPROJECT Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>code/routines</module>
-    <module>jobs/process/dockerdemo1_0.2</module>
-    <module>jobs/process/kid_0.1</module>
-    <module>jobs/process/father_0.1</module>
-    <module>jobs/process_mr/auditdemo_0.1</module>
     <module>jobs/process/testCase/testjob1_0.1</module>
     <module>jobs/process/dockerdemo1_0.1</module>
+    <module>jobs/process/father_0.1</module>
+    <module>jobs/process/dockerdemo1_0.2</module>
+    <module>jobs/process/kid_0.1</module>
+    <module>jobs/process_mr/auditdemo_0.1</module>
+    <module>code/routines</module>
   </modules>
   <properties>
     <talend.project.name>DEMOPROJECT</talend.project.name>
     <encoding>UTF-8</encoding>
     <talend.version>7.1.1</talend.version>
-    <talend.docker.tag>${talend.job.version}</talend.docker.tag>
     <maven.deploy.skip>true</maven.deploy.skip>
+    <talend.docker.tag>${talend.job.version}</talend.docker.tag>
     <talend.docker.name>${talend.project.name.lowercase}/${talend.job.folder}%a</talend.docker.name>
   </properties>
   <build>
