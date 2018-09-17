@@ -263,7 +263,7 @@
         "show" : true,
         "field" : "CHECK",
         "name" : "IMPLICIT_TCONTEXTLOAD",
-        "value" : "false",
+        "value" : "true",
         "contextMode" : false
       }, {
         "show" : true,
@@ -287,7 +287,7 @@
         "show" : true,
         "field" : "FILE",
         "name" : "IMPLICIT_TCONTEXTLOAD_FILE",
-        "value" : "\"C:/Users/dlin/Desktop/Cumulative_patch_Process.txt\"",
+        "value" : "\"C:/Users/dlin/Desktop/Cumulative_patch_Process123.txt\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -305,19 +305,19 @@
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "DB_TYPE_IMPLICIT_CONTEXT",
-        "value" : "",
+        "value" : "tMysqlInput",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "DB_VERSION_IMPLICIT_CONTEXT",
-        "value" : "",
+        "value" : "MYSQL_5",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "URL_IMPLICIT_CONTEXT",
-        "value" : "\"\"",
+        "value" : "\"jdbc:mysql://localhost:3306/?noDatetimeStringSync=true\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -328,19 +328,19 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "DRIVER_CLASS_IMPLICIT_CONTEXT",
-        "value" : "\"\"",
+        "value" : "\"org.gjt.mm.mysql.Driver\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "HOST_IMPLICIT_CONTEXT",
-        "value" : "\"\"",
+        "value" : "\"localhost\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "PORT_IMPLICIT_CONTEXT",
-        "value" : "\"\"",
+        "value" : "\"3306\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -358,7 +358,7 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "PROPERTIES_IMPLICIT_CONTEXT",
-        "value" : "\"\"",
+        "value" : "\"noDatetimeStringSync=true\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -370,13 +370,13 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "USER_IMPLICIT_CONTEXT",
-        "value" : "\"\"",
+        "value" : "\"root\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS_IMPLICIT_CONTEXT",
-        "value" : "0RMsyjmybrE=",
+        "value" : "7s6v49ZcklfgvLhdBCEhjQ==",
         "contextMode" : false
       }, {
         "show" : true,
@@ -442,7 +442,7 @@
         "show" : true,
         "field" : "TECHNICAL",
         "name" : "PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE",
-        "value" : "",
+        "value" : "_QcJrALfuEeiCxfUWCfpl8Q",
         "contextMode" : false
       } ]
     }
